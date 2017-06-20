@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Emulator config file set to c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] DiagnosticsStoreRootPath set to: C:\Users\carlo\AppData\Local\dftmp\Resources\6a5831bf-8cb3-4d84-89d1-8c94e5af1fe0
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Loading config file: c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Config file to read: c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Emulator config file set to c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:38] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:39] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:39] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:39] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:39] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:39] Resetting DiagnosticPlugin

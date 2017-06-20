@@ -1,0 +1,11 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Emulator config file set to c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] DiagnosticsStoreRootPath set to: C:\Users\carlo\AppData\Local\dftmp\Resources\d7e888c2-1725-4899-bdbc-6c98e0ec39c7
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Loading config file: c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Config file to read: c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Emulator config file set to c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Bypassing private config decryption
