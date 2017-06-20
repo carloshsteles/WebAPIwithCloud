@@ -15,8 +15,7 @@ namespace WebAPI.Controllers
     {
 
         static CloudQueue cloudQueueOne;
-        static CloudQueue cloudQueueTwo;
-
+    
         // Connection to QueueOne and QueueTwo
         public static void ConnectToStorageQueue()
         {
@@ -30,10 +29,8 @@ namespace WebAPI.Controllers
 
             var cloudQueueClient = cloudStorageAccount.CreateCloudQueueClient();
             cloudQueueOne = cloudQueueClient.GetQueueReference("queueone");
-            cloudQueueTwo = cloudQueueClient.GetQueueReference("queuetwo");
-
+      
             cloudQueueOne.CreateIfNotExists();
-            cloudQueueTwo.CreateIfNotExists();
         }
 
         //PUT message in QueueOne

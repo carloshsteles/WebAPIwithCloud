@@ -115,7 +115,7 @@ namespace Produtor
             {
                 Trace.TraceInformation("Working");
                 GetMessageFromQueueOne();
-                await Task.Delay(10000);
+                await Task.Delay(5000);
             }
         }
     }

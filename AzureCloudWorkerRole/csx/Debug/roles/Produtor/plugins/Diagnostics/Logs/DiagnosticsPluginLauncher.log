@@ -1,0 +1,20 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] At least one other instance of the launcher is running. Will wait until they all finish
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Service running in Emulator Mode, will not wait/kill other instances of the launcher
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Emulator config file set to C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] DiagnosticsStoreRootPath set to: C:\Users\carloshsteles\AppData\Local\dftmp\Resources\1b2430fc-298b-46e3-bebd-684ff22abea9
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Loading config file: C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Config file to read: C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Emulator config file set to C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Produtor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:06 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:06 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:06 PM] Found a DiagnosticsPlugin.exe. WadArguments: "C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\plugins\Diagnostics\DiagnosticsPlugin.exe" DiagnosticPlugin-ShutdownEvent DiagnosticPlugin-TotalShutdownEvent -wadVer1v5.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:23:06 PM] Forcefully terminated DiagnosticsPlugin.exe process with pid 6768
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:23:06 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:23:06 PM] Found a MonAgentHost.exe. WadArguments: "C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\plugins\Diagnostics\Monitor\x64\MonAgentHost.exe" -LocalPath "C:\Users\carloshsteles\AppData\Local\dftmp\Resources\299f9d15-68c6-4afa-8020-7bb1b43bffa5\WAD0105"  -ConfigFile "C:\Users\carloshsteles\AppData\Local\dftmp\Resources\299f9d15-68c6-4afa-8020-7bb1b43bffa5\WAD0105\Configuration\MaConfig.xml" -ShutDownEvent WADDM-ShutDown-df1ba861220748dabcfdef3efe41b724  -TotalShutDownEvent WADDM-TotalShutDown-df1ba861220748dabcfdef3efe41b724 -InitializedEvent WADM-StartUp-df1ba861220748dabcfdef3efe41b724 -parent 6768 -events -wadVer1v5 -UseProxyServer -XStoreAccounts WadAccount#true#devstoreaccount1#Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==#http://127.0.0.1:10002#http://127.0.0.1:10001#http://127.0.0.1:10000.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:23:06 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:23:06 PM] Resetting DiagnosticPlugin

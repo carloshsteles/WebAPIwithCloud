@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AzureCloudWorkerRole" generation="1" functional="0" release="0" Id="1fc430c2-000a-416c-91b4-30bd00814394" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="AzureCloudWorkerRole" generation="1" functional="0" release="0" Id="21e9c659-4bf5-4c6b-a7a2-186dd18ac954" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="AzureCloudWorkerRoleGroup" generation="1" functional="0" release="0">
       <settings>
@@ -48,7 +48,7 @@
       </maps>
       <components>
         <groupHascomponents>
-          <role name="Consumidor" generation="1" functional="0" release="0" software="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
+          <role name="Consumidor" generation="1" functional="0" release="0" software="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
             <settings>
               <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
               <aCS name="__ModelData" defaultValue="&lt;m role=&quot;Consumidor&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;Consumidor&quot; /&gt;&lt;r name=&quot;Produtor&quot; /&gt;&lt;/m&gt;" />
@@ -65,7 +65,7 @@
           </sCSPolicy>
         </groupHascomponents>
         <groupHascomponents>
-          <role name="Produtor" generation="1" functional="0" release="0" software="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Produtor" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
+          <role name="Produtor" generation="1" functional="0" release="0" software="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Produtor" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaWorkerHost.exe " memIndex="-1" hostingEnvironment="consoleroleadmin" hostingEnvironmentVersion="2">
             <settings>
               <aCS name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="" />
               <aCS name="__ModelData" defaultValue="&lt;m role=&quot;Produtor&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;Consumidor&quot; /&gt;&lt;r name=&quot;Produtor&quot; /&gt;&lt;/m&gt;" />

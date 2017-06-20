@@ -1,11 +1,17 @@
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] At least one other instance of the launcher is running. Will wait until they all finish
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Service running in Emulator Mode, will not wait/kill other instances of the launcher
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Emulator config file set to c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] DiagnosticsStoreRootPath set to: C:\Users\carlo\AppData\Local\dftmp\Resources\d7e888c2-1725-4899-bdbc-6c98e0ec39c7
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Loading config file: c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Config file to read: c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Checking VM Type
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Emulator config file set to c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Extension set to Emulator Mode
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Reading XML configuration file
-DiagnosticsPluginLauncher.exe Information: 0 : [20/06/2017 03:39:44] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Emulator config file set to C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] DiagnosticsStoreRootPath set to: C:\Users\carloshsteles\AppData\Local\dftmp\Resources\299f9d15-68c6-4afa-8020-7bb1b43bffa5
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Loading config file: C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Config file to read: C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Emulator config file set to C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\csx\Debug\roles\Consumidor\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:05 PM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:06 PM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:22:06 PM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Error: 0 : [6/20/2017 10:23:07 PM] DiagnosticsPlugin launch failed with exit code -1
+DiagnosticsPluginLauncher.exe Information: 0 : [6/20/2017 10:23:07 PM] DiagnosticPlugin exited with code -1

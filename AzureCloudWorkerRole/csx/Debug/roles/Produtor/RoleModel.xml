@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Produtor" version="2.9.8699.20" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Produtor" version="2.9.8599.18" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
   <Startup>
     <Task commandLine="DiagnosticsPluginLauncher.exe" taskType="background" relativePath="plugins\Diagnostics">
       <Environment>
@@ -22,7 +22,7 @@
     <Property name="Configuration" value="Debug" />
     <Property name="Platform" value="AnyCPU" />
     <Property name="RoleTargetFramework" value="v4.5.1" />
-    <Property name="OutputDir" value="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\obj\Debug\Produtor\" />
+    <Property name="OutputDir" value="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\obj\Debug\Produtor\" />
     <Property name="EntryPoint" value="Produtor.dll" />
     <Property name="SourceDir" value="" />
     <Property name="SitePhysicalPath" value="" />

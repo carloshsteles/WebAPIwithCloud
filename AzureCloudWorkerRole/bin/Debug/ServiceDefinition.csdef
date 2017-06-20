@@ -15,10 +15,10 @@
     </ConfigurationSettings>
     <Contents>
       <Content destination=".\">
-        <SourceDirectory path="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\rcf\Debug\ProdutorContent\" />
+        <SourceDirectory path="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\rcf\Debug\ProdutorContent\" />
       </Content>
       <Content destination=".\">
-        <SourceDirectory path="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\ecf\ProdutorContent\" />
+        <SourceDirectory path="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\ecf\ProdutorContent\" />
       </Content>
     </Contents>
     <Imports>
@@ -31,10 +31,10 @@
     </ConfigurationSettings>
     <Contents>
       <Content destination=".\">
-        <SourceDirectory path="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\rcf\Debug\ConsumidorContent\" />
+        <SourceDirectory path="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\rcf\Debug\ConsumidorContent\" />
       </Content>
       <Content destination=".\">
-        <SourceDirectory path="c:\Users\carlo\documents\visual studio 2017\Projects\WebAPI\AzureCloudWorkerRole\ecf\ConsumidorContent\" />
+        <SourceDirectory path="C:\Users\carloshsteles\Desktop\WebAPIwithCloud\AzureCloudWorkerRole\ecf\ConsumidorContent\" />
       </Content>
     </Contents>
     <Imports>

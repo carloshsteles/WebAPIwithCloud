@@ -102,7 +102,7 @@ namespace Consumidor
             {
                 Trace.TraceInformation("Working");
                 DeleteMessageFromQueueTwo();
-                await Task.Delay(20000);
+                await Task.Delay(10000);
             }
         }
     }
