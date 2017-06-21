@@ -56,10 +56,11 @@ namespace WebAPI.Controllers
         // GET api/values/5
         public string Get(string id)
         {
-            return PutMessageToQueueOne(id);
+            return "value 1";
         }
 
         // POST api/values
+       
         public string Post([FromBody]string value)
         {
             return PutMessageToQueueOne(value);
